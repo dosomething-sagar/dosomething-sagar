@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing **Master's Degree**
+- 🔭 I’m currently working at **FirstLogic Infosystem**
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, DSA**
 
@@ -47,12 +47,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/
+<a href = "https://www.linkedin.com/in/dosomething-sagar/
 "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "dosomethingus@gmail.com
 "><img src="https://img.icons8.com/color/344/gmail-new.png" height=48px/></a>
-<a href = "https://www.facebook.com/
-"><img src="https://img.icons8.com/fluency/344/facebook-new.png" height=48px/></a>
 <a href = "https://www.instagram.com/sagarbuddy_official
 "><img src="https://img.icons8.com/fluency/344/instagram-new.png" height=48px/></a>
 </p>
