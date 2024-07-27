@@ -4,7 +4,7 @@
 Hello there! I'm Sagar Malviya, and I'm currently working at **FirstLogic Infosystem**. I'm passionate about learning and currently focusing on enhancing my skills in **NodeJS**, **ReactJS**, and **DSA**. When I'm not coding, you can find me exploring new technologies and contributing to open-source projects.
 
 ## Get in Touch
-- **Email:** dosomethingus@gmail.com
+- **Email:** work.sagarmalviya@gmail.com
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/dosomething-sagar/)
 
 ## My Projects
