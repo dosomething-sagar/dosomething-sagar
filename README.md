@@ -8,7 +8,7 @@ Hello there! I'm Sagar Malviya, and I'm currently working at **FirstLogic Infosy
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/dosomething-sagar/)
 
 ## My Projects
-You can explore all of my projects on [My Portfolio](https://github.com/dosomething-sagar).
+You can explore all of my projects on [My Portfolio](https://github.com/dosomething-sagar?tab=repositories).
 
 ## Languages and Tools
 I'm proficient in various languages and tools, including:
