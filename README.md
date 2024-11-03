@@ -5,7 +5,7 @@ Hello there! I'm Sagar Malviya, and I'm currently working at **FirstLogic Infosy
 
 ## Get in Touch
 - **Email:** work.sagarmalviya@gmail.com
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/dosomething-sagar/)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sagarmalviya/)
 
 ## My Projects
 You can explore all of my projects on [My Portfolio](https://github.com/dosomething-sagar?tab=repositories).
