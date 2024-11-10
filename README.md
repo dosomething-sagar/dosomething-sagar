@@ -1,7 +1,8 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hello there! I'm Sagar Malviya, and I'm currently working at **FirstLogic Infosystem**. I'm passionate about learning and currently focusing on enhancing my skills in **NodeJS**, **ReactJS**, and **DSA**. When I'm not coding, you can find me exploring new technologies and contributing to open-source projects.
+Hello there! I'm Sagar Malviya, and I'm currently working at FirstLogic Infosystem. I'm passionate about learning and currently focusing on enhancing my skills in **ReactJS** (for frontend), **Spring Boot** and **Hibernate** (for backend), and DSA. When I'm not coding, you can find me exploring new technologies and contributing to open-source projects.
+
 
 ## Get in Touch
 - **Email:** work.sagarmalviya@gmail.com
