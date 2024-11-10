@@ -12,6 +12,8 @@ You can explore all of my projects on [My Portfolio](https://github.com/dosometh
 
 ## Languages and Tools
 I'm proficient in various languages and tools, including:
+- <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height=24/> Spring Boot
+- <img src="https://img.icons8.com/color/48/000000/hibernate.png" height=24/> Hibernate
 - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height=24/> Java
 - <img src="https://img.icons8.com/color/48/000000/html-5.png" height=24/> HTML
 - <img src="https://img.icons8.com/color/48/000000/css3.png" height=24/> CSS
